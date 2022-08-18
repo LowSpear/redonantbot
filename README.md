@@ -1,21 +1,22 @@
-# Kalopsia Bot ♣️
+# Redonant Bot
 
 ![MOSHED-2021-4-27-14-48-27](https://user-images.githubusercontent.com/79590499/116218250-f8a58800-a767-11eb-86fa-9c1ea5797100.jpg)
 
 [![Run on Repl.it](https://replit.com/badge/github/Monochromish/Kalopsia-Bot)](https://repl.it/github/Monchromish/Kalopsia-Bot)
 
-Kalopsia Bot is an Open-Source Discord.js v13 Bot
+Redonant Bot is Discord.js v13 Bot
 
-With features such as
+Şunun gibi özelliklerle:
 
-- Slash Commands
-- Staff Commands
-- Fun and Entertaining Commands
-- Utility Commands
-- NSFW Commands
-- Economy System
-- MongoDB Integration
-- And many more!
+- Eğik Çizgi Komutları
+- Personel Komutları
+- Eğlenceli ve Eğlenceli Komutlar
+- Yardımcı Komutlar
+- NSFW Komutları
+- Ekonomi Sistemi
+- MongoDB Entegrasyonu
+- Ve daha fazlası!
+
 
 Feeling experimental? Want to try Kalopsia Bot before building? [Invite the public version to your Discord Server!](https://discord.com/oauth2/authorize?client_id=966786765132267581&scope=bot%20applications.commands&permissions=8) (Up to date)
 
